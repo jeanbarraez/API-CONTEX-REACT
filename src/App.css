@@ -1,0 +1,21 @@
+
+.style-Card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    width: 100rem;
+    
+  
+    
+  }
+  
+  .card{
+    
+    margin: 1rem;
+    padding: 2rem;
+    background-color: azure;
+  }
+
+
+
